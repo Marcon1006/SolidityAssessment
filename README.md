@@ -1,7 +1,3 @@
-Sure! Here’s a README for your Solidity token contract:
-
----
-
 # SolidityToken
 
 This Solidity program is a simple implementation of a cryptocurrency token. It demonstrates the basic syntax and functionality of the Solidity programming language, providing a foundational example for those new to smart contract development.
